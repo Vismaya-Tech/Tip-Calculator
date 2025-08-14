@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    
+}
+.main{
+    background: lightblue;
+    margin-left: 400px;
+    margin-top: 200px;
+    height:500px;
+    width:500px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(7, 7, 7);
+    border-radius: 10px;
+    
+}
+#bill{
+height:30px;
+width:450px;
+border: 1px solid ;
+}
+#tip{
+    height:30px;
+    width:450px;
+    }
+button{
+    height:30px;
+    width:450px;
+    background: rgb(46, 224, 46);
+    border:none;
+    cursor: pointer;
+    font-weight: bolder;
+    }
+    button:hover{
+        background: darkgreen;
+    }
+    
